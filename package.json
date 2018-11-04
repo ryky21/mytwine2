@@ -1,0 +1,22 @@
+{
+  "name": "mytwine2",
+  "version": "1.0.0",
+  "description": "command line app",
+  "bin": {
+      "mytwine2" : "./bin/twine.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryky21/mytwine2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryky21/mytwine2/issues"
+  },
+  "homepage": "https://github.com/ryky21/mytwine2#readme"
+}
